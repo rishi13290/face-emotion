@@ -104,7 +104,7 @@ iv.) Emotion classification- In this step, of classification, the algorithm atte
 Therefore by following these steps, in this project a Emotion/Facial Recognition model has been trained and saved. It can recognize/detect the facial expressions of an individual on a real time basis that whether the individual is  Neutral, Angry, Disgust, Fear, Happy, Sad, Surprised.
 
 # Author
-Mayank Bimbra
+Mude Rishi Naik
 
 
 
